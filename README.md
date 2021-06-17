@@ -1,0 +1,48 @@
+# This Repository contains an overview of the content that has been covered throughout the 12-week training period at Sparta Global.
+## The contents covered in each week has been listed below.
+- Week 1
+  - Business week, TMAY, Profile creation
+- Week 2
+  - Python
+    - Basics
+    - Control flow
+    - Functions
+- Week 3
+  - Python
+    - OOP
+    - TDD
+    - API
+- Week 4
+  - Virtualisation
+    - Virtual machines
+    - Hypervisor
+    - Vagrant
+    - Containers
+    - Docker
+- Week 5
+  - Networking
+    - OSI & TCP/IP model
+    - IP maths
+    - Packet Tracer
+    - labtainer
+    - VPN
+- Week 6
+  - Team Project
+    - Python
+    - Password generator
+    - Password checker
+    - Error checking
+  - Revision
+    - Virtualisation
+    - Vagrant
+    - Containers
+    - VPN
+  - SQL
+    - definitions
+    - PostgreSQL
+- Week 7
+- Week 8
+- Week 9
+- Week 10
+- Week 11
+- Week 12
