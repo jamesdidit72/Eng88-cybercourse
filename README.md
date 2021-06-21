@@ -3,7 +3,7 @@
 - Week 1
   - Business week, TMAY, Profile creation
 - Week 2
-  - Python
+  - Python One
     - Basics
     - Control flow
     - Functions
