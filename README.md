@@ -8,7 +8,7 @@
     - Control flow
     - Functions
 - Week 3
-  - Python
+  - Python Two
     - OOP
     - TDD
     - API
