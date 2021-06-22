@@ -1,7 +1,9 @@
 # This Repository contains an overview of the content that has been covered throughout the 12-week training period at Sparta Global.
 ## The contents covered in each week has been listed below.
 - Week 1
-  - Business week, TMAY, Profile creation
+  - Business week 
+  - TMAY
+  - Profile creation
 - Week 2
   - Python One
     - Basics
@@ -41,6 +43,21 @@
     - definitions
     - PostgreSQL
 - Week 7
+  - SQL
+    - Linking Python with a database in linux
+  - Linux
+    - Used the project created in week 6
+    - Using command line 
+    - Cloning repos from GitHub
+    - Turning .py files into .exe
+    - Using pyinstaller
+    - creating containers on Docker
+  - DevOps
+    - definitions
+    - practices and benefits
+    - CAMS model
+    - Risk register
+    - CI/CD
 - Week 8
 - Week 9
 - Week 10
