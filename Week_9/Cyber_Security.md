@@ -4,7 +4,10 @@
 - NIST
   - The ability to protect or defend 
 - CNSS
-  - 
+  - Prevention of damage
+  - protection of and the restoration of computers, electronic communication systems etc
+  - inlcuding information contained therein
+  - to ensure its availability, integrity, authentication, confidentiality and non-repudiation  
 
 ## The Cube (Cyber Security Cube (McCumber Cube))
 ### 1st Dimension - Desired goals
@@ -44,3 +47,6 @@
     - A threat is what we're trying to protect against
 - Risk
     - The intersection of assets, threats and vulnerabilities
+
+## Cyber Threats
+### Threat actors

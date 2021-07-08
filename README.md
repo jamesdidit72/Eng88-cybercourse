@@ -59,7 +59,14 @@
     - Risk register
     - CI/CD
 - Week 8
+  - DevOps
+  - Team project
 - Week 9
+  - Cyber Security
+    - Introduction
+    - Cryptology
+    - Digital signatures
+    - Access control
 - Week 10
 - Week 11
 - Week 12
