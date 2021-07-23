@@ -14,7 +14,7 @@
 - Time-based AC (TBAC)
   - allows access depending on time (no access on weekends)
 - The principle of least privilege
-  - ASK OSAMA
+  - Giving someone more access than they need, which is bad practice
     
 ## AAA Framework
 - Authentication

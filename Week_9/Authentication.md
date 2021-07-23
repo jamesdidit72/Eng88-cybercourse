@@ -49,6 +49,7 @@ A process or action of proving or showing something to be genuine or valid
 - Certificate-based authentication technologies identity users, machines or devices by using digital certificates
 - A digital certificate is an electronic document based on the idea of a driver's license or a passport
 - The certificate contains the digital identity of a user including a public key, and the digital signature of a certification authority
+- Digital certificates prove the ownership of a public key and issued only by a certification authority
 ## Multi-factor Authentication
 - multi-factor authentication (MFA) is an authentication method that requires two or more independent ways to identify a user
 - example:
